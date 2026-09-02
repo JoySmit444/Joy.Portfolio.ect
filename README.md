@@ -26,6 +26,17 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 ### 3 sept - [Workshop]
 
+In deze workshop (de workshop Interactie: MMD, micro-interacties, forms) hadden we verschillende dingen weer terug gehaalt. Waarvan ook verschillenden design elementen zoals de affordance.
+
+Hier heb ik een wok to walk oefening gemaakt. Zodat je weer kon oefenen met de elementen waar we net mee hadden gewerkt. Ik heb geprobeerdt cue's en de anderen elementen in de user interaction te zetten.
+
+Hier heb ik een duidelijke en goede opfrisser gehad. En konden we weer design wise wakker geworden.
+
+Later werdt ons aangeraden om meer onderzoek te doen. En meer om ons heen te kijken voordat we ontworpen. Ook om meer te schetsen. Dit had ik deze keer niet gedaan vanwegen het gebrek van tijd.
+Maar in anderen momenten zou ik dit zeker doen.
+
+<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="500" height="600">
+
 [...]
 
 ### 31 aug - Kickoff
