@@ -35,7 +35,7 @@ Hier heb ik een duidelijke en goede opfrisser gehad. En konden we weer design wi
 Later werdt ons aangeraden om meer onderzoek te doen. En meer om ons heen te kijken voordat we ontworpen. Ook om meer te schetsen. Dit had ik deze keer niet gedaan vanwegen het gebrek van tijd.
 Maar in anderen momenten zou ik dit zeker doen.
 
-<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="500" height="600">
+<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="100" height="200">
 
 Bij de tweede les had ik (font in css). Hierbij hadden we verschillende dingen geleerdt over fonts en font-face. 
 Dit zijn dingen die ik al had geleerdt. Maar het was erg fijn om met een nieuw persoon deze informatie te krijgen. Ook kregen wij info over welke fonts illegaal waren en niet. Zo mogen we google and adobe progromma's niet gebruiken. Behalven als we het downloaden van tevoren en in de map zetten. 
@@ -44,7 +44,8 @@ Hierna hebben we verschillende opdrachten gedaan. Deze heb ik afgerond. Ik heb h
 
 Dit zijn de screenshots van de opdrachten
 opdracht 1
-<img src="../Joy.Portfolio.ect/images/opdracht_1.png" alt="Opdracht_1.png" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/opdracht_1.png" alt="foto_wok_to_walk.ng" width="100" height="200">
 
 opdracht 2
 <img src="../Joy.Portfolio.ect/images/opdracht_2.png" alt="Opdracht_2.png" width="500" height="600">
@@ -58,6 +59,17 @@ opdracht 4
  <source src="../Joy.Portfolio.ect/images/opdracht_4.mov" type="video/mp4">
 
  <source src="../Joy.Portfolio.ect/images/opdracht_4_2.mov" type="video/mp4">
+
+ Ook heb ik een voorbereiding gedaan op de volgende deep dive, deze deep dive is: Praktische CSS. 
+ Hiervoor heb ik de css dinner game gemaakt.
+
+<img src="../Joy.Portfolio.ect/images/dinner_css_af.png" alt="dinner_css_af" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/dinnercss_bewijs1.png" alt="dinnercss_bewijs1" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/dinnercss_bewijs2.png" alt="dinnercss_bewijs1" width="500" height="600">
+
+
 
 
 [...]
