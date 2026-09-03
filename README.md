@@ -70,7 +70,22 @@ opdracht 4
 <img src="../Joy.Portfolio.ect/images/dinnercss_bewijs2.png" alt="dinnercss_bewijs1" width="500" height="600">
 
 
+3 Sep
+Voor de deep dive: Html en css basic heb ik de aangegeven teksten en artiekelen gelezen.
+Dit leed tot de volgende notities en vragen.
+Ook had ik 2 artiekelen gelezen.
 
+<img src="../Joy.Portfolio.ect/images/notities_basic_html.png" alt="notitiesbasichtml" width="500" height="600">
+
+Hiernaast had ik ook de lelijke pagina van html opgesteld. Voor de diepdive: praktische css. Deze had ik gemaakt over miss verkiezingen.
+
+<img src="../Joy.Portfolio.ect/images/lelijke_pagina_1.png" alt="lelijkepagina1" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/lelijke_pagina_2.png" alt="lelijkepagina2" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/code_lelijke_pagina1.png" alt="codelelijkepagina1" width="500" height="600">
+
+<img src="../Joy.Portfolio.ect/images/code_lelijke_pagina2.png" alt="codelelijkepagina2" width="500" height="600">
 
 [...]
 
